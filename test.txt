@@ -3,3 +3,5 @@ Hello World
 It's new line
 I'm Marte Stanislav
 Web-Designer
+
+It's last commit
